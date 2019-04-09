@@ -1,4 +1,4 @@
-# Java应用性能远程监控系统(分布式监控)
+# Java应用性能远程监控系统
 
 ![./JavaMonitor/picture/logo.png](./JavaMonitor/picture/logo.png)
 
@@ -58,7 +58,7 @@ monitor.cron=0 0 0 1 1 ? *
 
 ## 六、安全
 
-JMP 默认是不开启安全认证的，若要开启请在application.properties文件中添加
+默认是不开启安全认证的，若要开启请在application.properties文件中添加
 
 ```properties
 monitor.open=true
@@ -73,7 +73,7 @@ monitor.password=admin
 
 ## 七、MySQL
 
-JMP内嵌H2数据库，有诸多限制，不过JMP提供MySQL数据库的支持。
+内嵌H2数据库，有诸多限制，不过JMP提供MySQL数据库的支持。
 
 使用方法很简单，新建application.properties文本文件放在jar包目录下，修改下列参数即可，这样数据库就更换为了MySQL。
 
