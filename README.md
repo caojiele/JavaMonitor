@@ -113,23 +113,6 @@ spring.jpa.hibernate.ddl-auto=update
 - Sleeping：休眠的线程数
 - Waiting：等待的线程数
 
-## 九、关于作者
-
-*博客：http://www.yueshutong.cn/*
-
-*Github：https://github.com/yueshutong/JavaMonitor*
-
-*Gitee：https://gitee.com/zyzpp/JavaMonitor*
-
-*邮箱：yster@foxmail.com*
-
-*QQ群：781927207*
-
-<img src="./JavaMonitor/picture/didiyun.png" width="100px">[滴滴云免费提供云计算服务](https://www.didiyun.com/?channel=14214)
-
-<img src="./JavaMonitor/picture/赞赏码.png" width="300px">
-
 **JavaMonitorPlus监控架构图**
 
 ![./JavaMonitor/picture/20190317192605.png](./JavaMonitor/picture/20190317192605.png)
-
