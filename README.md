@@ -1,6 +1,6 @@
 # Java应用性能远程监控系统
 
-![./JavaMonitor/picture/logo.png](./JavaMonitor/picture/logo.png)
+![logo.png](https://cdn.nlark.com/yuque/0/2019/png/338441/1563962684721-b662ba05-522f-4bf6-b701-0df1354bf7c3.png)
 
 适用于监控所有Java应用，具有堆内存监控、方法区监控、GC监控、类加载监控、类编译监控与线程监控，提供堆快照下载，线程快照下载。体验网址：[http://116.85.23.6:8888/](http://116.85.23.6:8888/)
 
@@ -115,4 +115,4 @@ spring.jpa.hibernate.ddl-auto=update
 
 **JavaMonitorPlus监控架构图**
 
-![./JavaMonitor/picture/20190317192605.png](./JavaMonitor/picture/20190317192605.png)
+![JavaMonitorPlus监控架构图](https://cdn.nlark.com/yuque/0/2019/png/338441/1563962696550-75f58a1d-b55d-44af-91c4-6cc30dca93b3.png)
